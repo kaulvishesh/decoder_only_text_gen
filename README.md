@@ -29,6 +29,7 @@ The project uses a text file, `the_office_dialogues.txt`, as the dataset. This d
    ```bash
    git clone https://github.com/kaulvishesh/we-build-gpt.git
    cd we-build-gpt
+2. Place the the_office_dialogues.txt file in the project directory.
 ## **Usage**
 
 Run the notebook cells sequentially to:
